@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "L06-Northwind-DB", "L06-Northwind-DB\L06-Northwind-DB.csproj", "{5DF4F726-EC0F-4BA1-8676-A786D2BB206D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NorthwindAPI", "NorthwindAPI\NorthwindAPI.csproj", "{D7FA9DE9-E21D-45B3-8967-771B252CB46F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DF4F726-EC0F-4BA1-8676-A786D2BB206D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DF4F726-EC0F-4BA1-8676-A786D2BB206D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DF4F726-EC0F-4BA1-8676-A786D2BB206D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DF4F726-EC0F-4BA1-8676-A786D2BB206D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7FA9DE9-E21D-45B3-8967-771B252CB46F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7FA9DE9-E21D-45B3-8967-771B252CB46F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7FA9DE9-E21D-45B3-8967-771B252CB46F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7FA9DE9-E21D-45B3-8967-771B252CB46F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
